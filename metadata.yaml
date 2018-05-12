@@ -1,0 +1,38 @@
+_repo: Dress-as-a-Fine-ArtWith-Suggestions-on-Children-s-Dress_34092
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Fairholt, F. W. (Frederick William)
+    alias: Fairholt, Frederick William
+    birthdate: 1814
+    deathdate: 1866
+    gutenberg_agent_id: '32015'
+    url: http://www.gutenberg.org/2009/agents/32015
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_William_Fairholt
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merrifield, Mary P. (Mary Philadelphia)
+    aliases:
+    - Merrifield, Mary Philadelphia
+    - Merriefield, M. (Mary)
+    birthdate: 1804
+    deathdate: 1889
+    gutenberg_agent_id: '36758'
+    url: http://www.gutenberg.org/2009/agents/36758
+description: ''
+gutenberg_issued: '2010-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clothing and dress'
+- !lcc 'TT'
+title: Dress as a Fine Art, with Suggestions on Children's Dress
+url: http://www.gutenberg.org/ebooks/34092
